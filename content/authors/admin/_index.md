@@ -32,7 +32,7 @@ education:
   - course: PhD in Physics
     #institution: Stanford University
     year: 2010
-  - course: MEng in Microelectronic Electrical
+  - course: BEng in Microelectronic Engineering
     #institution: Massachusetts Institute of Technology
     year: 2003
   - course: BSc in Physics and Applied Math
