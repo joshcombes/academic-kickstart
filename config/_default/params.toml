@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "joshua.combes AT colorado.edu"
 phone = "888 888 88 88"
 
 # Address
@@ -273,7 +273,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
+  engine = 0
   api_key = ""
   zoom = 15
 
