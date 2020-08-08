@@ -3,39 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.joshcombes.com/people/people/</loc>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://www.joshcombes.com/authors/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://www.joshcombes.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/author/josh-combes/</loc>
+    <loc>https://www.joshcombes.com/author/joe-blogs/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://www.joshcombes.com/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://www.joshcombes.com/author/josh-combes/</loc>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://www.joshcombes.com/people/</loc>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://www.joshcombes.com/post/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://www.joshcombes.com/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.joshcombes.com/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.joshcombes.com/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.joshcombes.com/tags/</loc>
   </url>
   
 </urlset>
