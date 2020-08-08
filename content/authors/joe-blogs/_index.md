@@ -2,7 +2,7 @@
 # Display name
 title: "Joe Blogs"
 
-name = "Joe Blogs"
+name: "Joe Blogs"
 
 # Username (this should match the folder name and the name on publications)
 authors: ["joe-blogs"]
