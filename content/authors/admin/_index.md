@@ -53,6 +53,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=DE3uti8AAAAJ&hl=en
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/combes_j_1
 - icon: github
   icon_pack: fab
   link: https://github.com/joshcombes
