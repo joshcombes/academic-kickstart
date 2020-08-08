@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 
+role: lord of the flies
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,6 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Alumni
-- Administration
+user_groups: ["Alumni", "Administration"]
+
 ---
